@@ -1,3 +1,3 @@
-# Samples associated with research on container based technologies
+# Containerization Samples
 
-Research content associated with containerization.
+This repository contains samples associated with research on container based technologies.
