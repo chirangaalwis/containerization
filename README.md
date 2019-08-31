@@ -1,3 +1,3 @@
-# Containerization of WSO2 products
+# Samples associated with research on container based technologies
 
-Research content associated with containerization of WSO2 products.
+Research content associated with containerization.
